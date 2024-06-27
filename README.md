@@ -12,7 +12,6 @@ InternetCheck is a Python application that monitors internet connectivity and lo
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Real-time Monitoring:** Constantly checks internet connectivity.
