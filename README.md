@@ -33,7 +33,7 @@ InternetCheck is a Python application that monitors internet connectivity and lo
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/InternetCheck.git
+   git clone https://github.com/vitaliy-developer/InternetCheck.git
    ```
    
 2. Navigate into the project directory:
