@@ -46,17 +46,9 @@ InternetCheck is a Python application that monitors internet connectivity and lo
    ```
    
 4. Activate the virtual environment:
-   - On macOS/Linux:
+   - On Linux:
      ```
      source InternetCheck_venv/bin/activate
-     ```
-   - On Windows (Command Prompt):
-     ```
-     .\InternetCheck_venv\Scripts\activate
-     ```
-     - On Windows (PowerShell):
-     ```
-     .\InternetCheck_venv\Scripts\Activate.ps1
      ```
 
 5. Install dependencies:
@@ -71,13 +63,9 @@ InternetCheck is a Python application that monitors internet connectivity and lo
 
 ## Usage
 1. Activate the virtual environment if it's not already activated:
-   - On macOS/Linux:
+   - On Linux:
      ```
      source InternetCheck_venv/bin/activate
-     ```
-   - On Windows:
-     ```
-     .\InternetCheck_venv\Scripts\activate
      ```
      
 2. Run the application:
