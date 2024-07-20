@@ -61,7 +61,7 @@ InternetCheck is a Python application that monitors internet connectivity and lo
 
 5. Install dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r requirements_linux.txt
    ```
 
 6. To deactivate the virtual environment, simply run:
